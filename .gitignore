@@ -1,0 +1,16 @@
+*
+
+!.gitignore
+
+!src
+!src/**
+
+!libs
+!libs/**
+
+!*.txt
+!*.md
+!*.jpg
+!*.png
+
+.DS_Store
